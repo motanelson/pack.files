@@ -1,1 +1,1 @@
-simply multi line config files
+compiles c code
